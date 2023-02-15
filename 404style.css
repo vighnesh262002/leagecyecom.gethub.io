@@ -1,0 +1,78 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: broder-box;
+    font-family: "poppins";
+}
+
+.page_404
+{
+    padding :20px 0;
+    background:white
+ 
+}
+
+.page_404 img 
+{
+    width: 100;
+}
+
+.four_zero_four_bg
+{
+    background:url(img/404.gif);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+h1
+{    padding-left: 625px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 100px;
+    color: crimson;    
+}
+h1:hover{
+    color: black;
+}
+
+h3
+{       
+    font-size: 40px;
+    font-weight: bolder;
+    color:black;
+    margin-left:500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{  font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 220px;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(249, 114, 17);
+}
+
+a
+{   margin-left: 670px;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px; 
+    background: #39ac31;
+    display: inline-block;
+    justify-content: center;
+    border-style:double;
+    font-weight: bold;
+}
+
+.content_box_404
+{
+    margin-top: -50px;
+    font-size: 50px
+}
+a:hover
+{
+    text-decoration: none;
+    color: black;
+}
